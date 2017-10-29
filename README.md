@@ -1,2 +1,2 @@
 # PFA
-Angular2/Ionic2
+A school Angular2/Ionic2 project.
